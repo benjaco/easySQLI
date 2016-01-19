@@ -19,13 +19,13 @@ $query - standard sql statement with question marks as placeholders
 
 $dataMode - string with the number of variables and length of string, types must match the parameters in the statement.
 
-     * i for integer
+i for integer
      
-     * d for double
+d for double
      
-     * s for string
+s for string
      
-     * b for blob and will be sent in packets
+b for blob and will be sent in packets
      
 $parameters - array of variables for the placehoders
 
