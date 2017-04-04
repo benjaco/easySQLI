@@ -1,4 +1,4 @@
-#Mysqli prepare statement class
+# Mysqli prepare statement class
 
 License: MIT
 
